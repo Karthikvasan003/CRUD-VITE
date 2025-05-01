@@ -1,0 +1,24 @@
+{
+  "student": [
+    {
+      "id": "bf2b",
+      "userName": "meao",
+      "userEmail": "meao@gamil"
+    },
+    {
+      "id": "ede1",
+      "userName": "arunkumar",
+      "userEmail": "arun@gmail"
+    },
+    {
+      "id": "ede2",
+      "userName": "vishal",
+      "userEmail": "vishal@gmail"
+    },
+    {
+      "id": "173d",
+      "userName": "vel",
+      "userEmail": "vel@gmail"
+    }
+  ]
+}
